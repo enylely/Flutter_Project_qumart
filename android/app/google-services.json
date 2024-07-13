@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484887495261",
+    "project_id": "shrine-4b907",
+    "storage_bucket": "shrine-4b907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484887495261:android:5ac8b9e006e0a58bde43b4",
+        "android_client_info": {
+          "package_name": "com.example.qumart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRT8rMKeyLDJkrRTM8uEb3pVq_rfe0gyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484887495261:android:8eda686dd6dcbdaede43b4",
+        "android_client_info": {
+          "package_name": "com.flutter.shrine_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRT8rMKeyLDJkrRTM8uEb3pVq_rfe0gyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
